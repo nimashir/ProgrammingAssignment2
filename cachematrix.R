@@ -3,7 +3,6 @@
 ## function makeCachMatric return a list. It create a matrix objext and will be used to retrieve the inverse of a matrix or
 ## setting the inverse for the first time
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
         inv<-NULL
